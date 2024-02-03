@@ -1,0 +1,36 @@
+export const data = {
+    id: 1,
+    img: "https://i.pinimg.com/originals/70/e6/ee/70e6ee95e05cdc2aa6ed53285da55dce.png",
+    title: "Bolalar uchun yumshoq o'yinchog'i, Lilo va Stitch sovg'a uchun, moviy va pushti ranglar",
+    price: "560000",
+    sale: 15,
+    type: [
+        {
+            id: 0,
+            title: "Bolalar uchun yumshoq o'yinchog'i,",
+            color: "Yellow",
+            img: "https://i.ebayimg.com/images/g/QIwAAOSwhklkEcdZ/s-l1600.png",
+            price: "340000",
+            sale: 23,
+            count: 20,
+        },
+        {
+            id: 1,
+            title: "Bolalar uchun yumshoq o'yinchog'i,",
+            color: "red",
+            img: "https://aquarium-fish-home.ru/wp-content/uploads/2019/08/s1200-3.jpg",
+            price: "760000",
+            sale: 40,
+            count: 10,
+        },
+        {
+            id: 2,
+            title: "Bolalar uchun yumshoq o'yinchog'i,",
+            color: "aqua",
+            img: "https://desano.ru/uploads/catalog/1087/NS-10317-1.jpg",
+            price: "230000",
+            sale: 23,
+            count: 1,
+        },
+    ],
+};
